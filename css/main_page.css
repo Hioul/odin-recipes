@@ -1,0 +1,32 @@
+*{
+    font-family:'Times New Roman';
+    background-color:darkblue
+}
+
+
+h1{
+    text-align:center;
+    color:aliceblue;
+
+}
+
+
+li{
+    text-align:center;
+    list-style-type:none;
+
+}
+
+a{
+    border-style:dashed;
+    border-color:gold;
+    color:gold;
+    font-size:20px;
+    font-weight:500;
+}
+
+
+p{
+    text-align:center;
+    color:aliceblue;
+}
